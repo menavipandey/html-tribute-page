@@ -1,0 +1,57 @@
+body{
+    color: white;
+    background-color: rgb(0, 0, 0);
+
+}
+
+
+/* #text{
+    /* direction: rtl; */
+    /* font-size: 3rem ; 
+    box-shadow: 20 10px 3px black;
+} */
+#nikola{
+    /* background-color: rgb(130, 130, 130); */
+    background-image: url(./tes2.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    border: 3px solid rgb(161, 158, 158);
+    border-bottom-left-radius:  60% 90%;
+    border-bottom-right-radius: 60% 90% ;
+    text-align:center;
+    box-shadow: 0 10px 13px white;
+   
+    
+}
+
+#txt{
+    font-size: 200%;
+    text-shadow: 4px 9px 9px rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+   letter-spacing: 6px;
+}
+
+img{
+    padding:0%;
+    margin:2%;
+    border-radius: 100%;
+    box-shadow: -18px 0px 19px rgb(0, 0, 0)  ;
+    opacity: 1.9;
+}
+
+.quote{
+    text-align: center;
+    font-size: larger;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    line-height: 1.4;
+    letter-spacing: 2px;
+}
+#para{
+    font-size: 1.2rem;
+    line-height: 1.4;
+    /* margin:2px 2px 2px 2px; */
+    padding: 0px 3rem;
+    /* border: 4px solid white; */
+    letter-spacing: 1px;
+}
